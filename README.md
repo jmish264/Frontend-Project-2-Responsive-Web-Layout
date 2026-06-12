@@ -19,6 +19,9 @@ Spice Garden is a responsive restaurant website developed using HTML and CSS.
 ## Project Type
 Responsive Web Layout
 
+## Live Demo
+ https://jmish264.github.io/Frontend-Project-2-Responsive-Web-Layout/
+
 ## Author
 Jatin Mishra
 
